@@ -1,1 +1,1 @@
-hello,example of git
+hrllo this is python Django session
